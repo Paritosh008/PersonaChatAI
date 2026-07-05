@@ -1,0 +1,19 @@
+# Two channels, ~2.5K videos. New uploads almost daily.
+channels:
+  - name: "Chai aur Code"
+    handle: "@chaiaurcode"
+    language: "Hindi"
+    subscribers: 778K
+    videos: "645+"
+    url: https://www.youtube.com/@chaiaurcode
+    about: > # folded scalar
+      Hindi tutorials on full-stack, system design, devops, and AI.
+ 
+  - name: "Hitesh Choudhary"
+    handle: "@HiteshCodeLab"
+    language: "English"
+    subscribers: 1.02M
+    videos: "1.7K+"
+    url: https://www.youtube.com/@HiteshCodeLab
+    about: > # folded scalar
+      English channel for cutting-edge tech, AI, and new frameworks.

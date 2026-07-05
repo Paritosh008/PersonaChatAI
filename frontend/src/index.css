@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: #0f0f0f;
+  color: #e5e5e5;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #1a1a1a;
+}
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 3px;
+}
+
+/* Terminal text */
+.font-mono {
+  font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace;
+}
+
+/* Typing cursor animation */
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+.cursor-blink {
+  animation: blink 1s step-end infinite;
+}
+
+/* Message appear animation */
+@keyframes slideIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.message-appear {
+  animation: slideIn 0.2s ease-out;
+}

@@ -1,0 +1,31 @@
+{
+  "educator": "Piyush Garg",
+  "platforms": [
+    {
+      "name": "piyushgarg.dev",
+      "url": "https://www.piyushgarg.dev/",
+      "type": "personal_website",
+      "description": "Official website with courses and resources",
+      "features": ["Courses", "Blog", "Projects"]
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/@piyushgargdev",
+      "type": "video_platform",
+      "description": "Free programming content — Node.js, React, TypeScript, Docker"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/piyushgarg-dev",
+      "type": "code_platform",
+      "description": "Source code for tutorials and projects"
+    },
+    {
+      "name": "Udemy",
+      "url": "ADD_UDEMY_URL",
+      "type": "course_platform",
+      "description": "ADD YOUR DATA: Add Udemy profile URL if applicable"
+    }
+  ],
+  "note": "ADD YOUR DATA: Update with actual platform URLs and descriptions from piyushgarg.dev"
+}

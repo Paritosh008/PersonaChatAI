@@ -1,0 +1,38 @@
+{
+  "educator": "Hitesh Choudhary",
+  "products": [
+    {
+      "name": "Chai aur Code Courses",
+      "type": "online_course",
+      "url": "https://hitesh.ai/",
+      "description": "Premium programming courses on hitesh.ai",
+      "topics": ["JavaScript", "React", "Node.js", "Python", "Full Stack"],
+      "price": "ADD_PRICE_RANGE",
+      "note": "ADD YOUR DATA: Add actual product names and prices from hitesh.ai"
+    },
+    {
+      "name": "YouTube Free Content",
+      "type": "free_content",
+      "url": "https://www.youtube.com/@chaiaurcode",
+      "description": "Hundreds of free programming tutorials",
+      "price": "Free"
+    },
+    {
+      "name": "Udemy Courses",
+      "type": "online_course",
+      "url": "https://www.udemy.com/user/hitesh-choudhary/",
+      "description": "Paid courses on Udemy platform",
+      "price": "ADD_PRICE_RANGE",
+      "note": "ADD YOUR DATA: Add actual course prices"
+    },
+    {
+      "name": "Community / Discord",
+      "type": "community",
+      "url": "ADD_DISCORD_URL",
+      "description": "Chai aur Code community",
+      "price": "ADD_PRICE_OR_FREE",
+      "note": "ADD YOUR DATA: Add community URL and details"
+    }
+  ],
+  "note": "ADD YOUR DATA: Fill in actual products, prices, and URLs from hitesh.ai"
+}

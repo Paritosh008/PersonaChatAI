@@ -1,0 +1,28 @@
+{
+  "educator": "Piyush Garg",
+  "products": [
+    {
+      "name": "piyushgarg.dev Courses",
+      "type": "online_course",
+      "url": "https://www.piyushgarg.dev/",
+      "description": "Premium programming courses — Node.js, React, TypeScript, Docker",
+      "price": "ADD_PRICE_RANGE",
+      "note": "ADD YOUR DATA: Add actual course names and prices from piyushgarg.dev"
+    },
+    {
+      "name": "YouTube Free Content",
+      "type": "free_content",
+      "url": "https://www.youtube.com/@piyushgargdev",
+      "description": "Free in-depth tutorials on modern web development",
+      "price": "Free"
+    },
+    {
+      "name": "Community",
+      "type": "community",
+      "url": "ADD_COMMUNITY_URL",
+      "description": "ADD YOUR DATA: Add Discord/community URL",
+      "price": "ADD_PRICE_OR_FREE"
+    }
+  ],
+  "note": "ADD YOUR DATA: Fill in actual products and prices from piyushgarg.dev"
+}

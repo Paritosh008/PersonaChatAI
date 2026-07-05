@@ -1,0 +1,31 @@
+# Piyush Garg - YouTube Channels
+# ADD YOUR DATA: Fill in actual subscriber counts, video counts, and URLs
+
+channels:
+  - name: "Piyush Garg"
+    url: "https://www.youtube.com/@piyushgargdev"
+    language: "Hindi / English"
+    focus:
+      - "Node.js"
+      - "React & Next.js"
+      - "TypeScript"
+      - "Docker & DevOps"
+      - "System Design"
+      - "Backend development"
+      - "Full stack projects"
+    # ADD YOUR DATA:
+    subscribers: "ADD_SUBSCRIBER_COUNT"
+    videos: "ADD_VIDEO_COUNT"
+    description: "Fast-paced modern web dev tutorials — Node.js, React, TypeScript, Docker, System Design"
+    featured_playlists:
+      - "Node.js Complete Course"
+      - "React.js for Beginners"
+      - "Docker & Kubernetes"
+      - "System Design"
+      - "TypeScript Complete Guide"
+
+stats:
+  # ADD YOUR DATA:
+  total_views: "ADD_TOTAL_VIEWS"
+  total_subscribers: "ADD_SUBSCRIBER_COUNT"
+  started_year: "ADD_YEAR"
