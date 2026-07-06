@@ -1,6 +1,6 @@
 import { PersonaId } from '../types';
 
-const API_BASE = 'http://localhost:3001';
+const API_BASE = 'https://personachatai.onrender.com';
 
 /**
  * Send a message to the backend.
